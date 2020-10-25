@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.92">
+  <channel>
+       <title>XPerience-FR - Downloads </title>
+       <link>http://www.xperience-fr.net/mydownloads</link>
+       <description>XPerience-FR</description>
+    <image>
+       <title>XPerience-FR</title>
+       <url>http://www.xperience-fr.net/images/logo.gif</url>
+       <link>http://www.xperience-fr.net/</link>
+       <description>XPerience-FR</description>
+       <width>88</width>
+       <height>31</height>
+    </image>
+    <item>
+       <title>Jaxx OnlineSignature</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Plugin news Trillian</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Loading (Page Loading)</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Online offline (Show Online In View Topic)</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Ad-Aware</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Liste de serveurs + réglages pour eMule</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>Linux</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+    <item>
+       <title>eD2k Fake Attack</title>
+       <link>http://www.xperience-fr.net/modules/mydownloads/index.php?lid=</link>
+    </item>
+  </channel>
+</rss>

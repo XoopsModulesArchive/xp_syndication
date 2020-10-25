@@ -1,0 +1,11 @@
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=22&t=34" target="_blank">Le Cercle - The Ring</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=13&t=36" target="_blank">Windows Sp1</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=13&t=30" target="_blank">Dégroupage&#33;</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=21&t=13" target="_blank">Protéger Mon Styl</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=12&t=38" target="_blank">Malloc</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=17&t=39" target="_blank">Subwarzone (warcraft3)</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=22&t=7" target="_blank">Taxi 3</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=18&t=35" target="_blank">Lan Gratos Avec Tournoi</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=1&t=32" target="_blank">Aol Contre Les Serials Users.</a></span><br>');
+document.write('<li> <span class="rss_body"><A HREF="http://127.0.0.1/Xperience-Fr/modules/ipboard/index.php?act=ST&f=6&t=33" target="_blank">Mod</a></span><br>');
+document.write('<div class="rss_footer">  3 March 2003, 16:09</div>');

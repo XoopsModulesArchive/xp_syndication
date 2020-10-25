@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.92">
+  <channel>
+       <title>XPerience-FR - Links </title>
+       <link>http://www.xperience-fr.net/modules/mylinks</link>
+       <description>XPerience-FR</description>
+    <image>
+       <title>XPerience-FR</title>
+       <url>http://www.xperience-fr.net/images/logo.gif</url>
+       <link>http://www.xperience-fr.net/</link>
+       <description>XPerience-FR</description>
+       <width>88</width>
+       <height>31</height>
+    </image>
+    <item>
+       <title>187Crew</title>
+       <link>http://www.xperience-fr.net/modules/mylinks/index.php?lid=6</link>
+    </item>
+    <item>
+       <title>Deamon Crack</title>
+       <link>http://www.xperience-fr.net/modules/mylinks/index.php?lid=3</link>
+    </item>
+    <item>
+       <title>Ardeche Libre</title>
+       <link>http://www.xperience-fr.net/modules/mylinks/index.php?lid=2</link>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.92">
+  <channel>
+       <title>XPerience-FR</title>
+       <link>http://www.xperience-fr.net/</link>
+       <description>XPerience-FR</description>
+    <image>
+       <title>XPerience-FR</title>
+       <url>http://www.xperience-fr.net/images/logo.gif</url>
+       <link>http://www.xperience-fr.net/</link>
+       <description>XPerience-FR</description>
+       <width>88</width>
+       <height>31</height>
+    </image>
+    <item>
+       <title>Un patch pour eMule 0.26a</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=52</link>
+    </item>
+    <item>
+       <title>Ad-aware 6 Language Pack # 1</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=51</link>
+    </item>
+    <item>
+       <title>IPBM 1.1</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=50</link>
+    </item>
+    <item>
+       <title>Microsoft Windows Movie Maker 2</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=32</link>
+    </item>
+    <item>
+       <title>Xoops 2.0 RC1</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=49</link>
+    </item>
+    <item>
+       <title>Ad-Aware 6.0 Standard</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=48</link>
+    </item>
+    <item>
+       <title>eMule 0.26a !!!! [MAJ]</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=47</link>
+    </item>
+    <item>
+       <title>Windows SP1a</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=46</link>
+    </item>
+    <item>
+       <title>Mise à jours du tutorial Créer son FTP Perso.</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=45</link>
+    </item>
+    <item>
+       <title>MeuhMeuhTV 2.21</title>
+       <link>http://www.xperience-fr.net/modules/news/article.php?storyid=44</link>
+    </item>
+  </channel>
+</rss>
